@@ -31,18 +31,29 @@
 
 <h1>User Creation</h1>
 
-<h3>Step 1: Create users in AD</h3>
-<p>First we will be  </p>
+- find the OU that the new user will be added to
+- right click -> new -> user
 
-- 
+![1](https://github.com/user-attachments/assets/21d75b39-cbf1-40f6-a1ae-955425756b4d)
 
-<br>
+____
+
+- enter the first name, last name and user logon name
+- press next
+
+![2](https://github.com/user-attachments/assets/dd7ac2f7-6675-46b3-99bc-ffcb69e0ea73)
 
 
-<h3>Step 2: Login as user </h3>
-<p>Second we will be  </p>
+____
 
-- 
+- enter and confirm a temporary password
+- check box for "user must change password at next logon"
+
+![3](https://github.com/user-attachments/assets/de3072dd-b4a2-4f21-82df-5992fd82e3a7)
+
+
+____
+
 
 
 <h2> Final Thoughts </h2>
